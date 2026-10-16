@@ -4,6 +4,6 @@ int main(){
     printf("Enter a  and b : ");
     scanf("%d %d", &a ,&b);
     sum = a + b;
-    printf("Sum of a and b is  : %d " , sum);
+    printf("Sum of a and b is  : %d \n" , sum);
     return 0; 
 }
